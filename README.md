@@ -1,2 +1,4 @@
 # Discord-Stories-old
-Just for storing the old version of the code. Nothing will change in this repository.
+
+### Deprecated
+Just for storing the old version of the code. Nothing will be changed anymore in this repository.
